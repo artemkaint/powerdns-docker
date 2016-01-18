@@ -1,5 +1,5 @@
-FROM ubuntu:14.04
-MAINTAINER Johannes 'fish' Ziemke <docker@freigeist.org>
+FROM ubuntu:15.10
+MAINTAINER artemkaint
 
 ENV DEBIAN_FRONTEND noninteractive
 
